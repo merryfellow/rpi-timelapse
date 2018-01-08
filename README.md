@@ -1,3 +1,6 @@
+TODO: remove LCD ui references in documentation, code, and configuration. Physical testing target will be Canon EOS 70D
+
+
 rpi-timelapse
 =============
 
